@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+
+ul{
+    font-size: larger;
+    font-weight: 6;
+    
+    ul{
+        margin-top: 10px;
+        margin-bottom: 70px;
+        font-size: large;
+
+        li{
+            margin-top: 20px;
+            margin-bottom: -12px;
+        }
+        
+        p{
+            margin-top: 17px;
+            margin-bottom: 40px;
+            margin-left: 60px;
+            font-size: medium;
+            font-weight: bold;
+        }
+    }
+}
